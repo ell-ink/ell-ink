@@ -1,4 +1,5 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&color=707070&width=435&lines=I'm+ellink;and+welcome+to+my+github)](https://git.io/typing-svg)
 
 <!--
 **ell-ink/ell-ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
