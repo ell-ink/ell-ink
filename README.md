@@ -12,7 +12,6 @@
 - currently studying JS
 - “she was obsessed with cats”
 
-
 <!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
@@ -22,7 +21,8 @@
   <img src="https://media.giphy.com/media/qMBBrQGnCovagXRguC/giphy.gif" width="300"/>
 </div>
 
-Ones I said: “I know 3 languages, what a shame these are not programming languages”
+- being upset that SWIFT have nothing to do with Taylor Swift
+- ones I said: “I know 3 languages, what a shame these are not programming languages”
 
 [![codewars](https://www.codewars.com/users/ell-ink/badges/small)](https://www.codewars.com/users/ell-ink) 
 
