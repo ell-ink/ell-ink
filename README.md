@@ -1,5 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=24&color=707070&width=435&lines=I'm+ellink;and+welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&color=006AFF&multiline=true&width=435&height=40&lines=Hi!+It's+ellink)](https://git.io/typing-svg)
+
+[![codewars](https://www.codewars.com/users/ell-ink/badges/small)](https://www.codewars.com/users/ell-ink) 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ell-ink&theme=transparent)](https://git.io/streak-stats)
+
+
 
 <!--
 **ell-ink/ell-ink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
