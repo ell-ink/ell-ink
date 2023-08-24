@@ -10,7 +10,7 @@
 
 - yet another newborn front-end dev
 - currently studying JS
-- “she was obsessed with cats”
+- “she was obsessed with cats, so she started to use GitHub”
 
 <!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
