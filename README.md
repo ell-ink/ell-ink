@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/qMBBrQGnCovagXRguC/giphy.gif" width="300"/>
 </div>
 
-Ones I said: “I know 3 languages, that a shame these are not programming languages”
+Ones I said: “I know 3 languages, what a shame these are not programming languages”
 
 [![codewars](https://www.codewars.com/users/ell-ink/badges/small)](https://www.codewars.com/users/ell-ink) 
 
