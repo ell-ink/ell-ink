@@ -1,17 +1,22 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=32&color=006AFF&multiline=true&width=435&height=40&lines=Hi!+It's+ellink)](https://git.io/typing-svg)
+
+- yet another newborn front-end dev
+- currently studying JS
+- “she was obsessed with cats”
+
+<p align="center">I use</p>
 
 <!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
 -->
 
-<!-- <div align="left">
+<div align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/006AFFFF"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/006AFFFF"/>
   <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/006AFFFF"/>
 </div>
--->
+
 
 
 <div id="header" align="left">
