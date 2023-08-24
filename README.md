@@ -5,6 +5,15 @@
   <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="300"/>
 </div>
 -->
+
+<!-- <div align="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/006AFFFF"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/006AFFFF"/>
+  <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/006AFFFF"/>
+</div>
+-->
+
+
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/qMBBrQGnCovagXRguC/giphy.gif" width="300"/>
 </div>
