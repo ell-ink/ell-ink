@@ -22,7 +22,6 @@
 </div>
 
 - being upset that SWIFT have nothing to do with Taylor Swift
-- ones I said: “I know 3 languages, what a shame these are not programming languages”
 
 [![codewars](https://www.codewars.com/users/ell-ink/badges/small)](https://www.codewars.com/users/ell-ink) 
 
