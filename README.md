@@ -26,7 +26,7 @@
 
 [![codewars](https://www.codewars.com/users/ell-ink/badges/small)](https://www.codewars.com/users/ell-ink) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ell-ink&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ell-ink&theme=transparent)](https://git.io/streak-stats)
 
 
 
